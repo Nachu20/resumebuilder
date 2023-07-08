@@ -7,4 +7,5 @@ Requirements:
           #Use a template that is appropriate for your industry (user choice)
           #Customize your resume for each job you apply for.
           #Use keywords throughout your resume
+          #Try to do resume within one page.
  
